@@ -1,0 +1,16 @@
+wei/cust/Tester.java
+ wei.cust.Tester
+wei/stud/Tester.java
+ wei.stud.Tester
+wei/stud/Student.java
+ wei.stud.Student
+wei/stud/GraduateStudent.java
+ wei.stud.GraduateStudent
+wei/cust/SilverCustomer.java
+ wei.cust.SilverCustomer
+wei/cust/Customer.java
+ wei.cust.Customer
+wei/stud/Mailer.java
+ wei.stud.Mailer
+wei/mail/Tester.java
+ wei.mail.Tester
