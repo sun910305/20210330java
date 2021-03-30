@@ -8,6 +8,6 @@ public abstract class Box {
     public boolean validate(int l, int w, int h){
         return(l<=length && w<=width && h<=height);
     }
-    public abstract String getGame;
-    public abstract String getPrice;
+ //   public abstract String getGame;
+ //   public abstract String getPrice;
 }
