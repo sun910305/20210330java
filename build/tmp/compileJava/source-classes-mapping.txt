@@ -1,7 +1,7 @@
 wei/stud/Tester.java
  wei.stud.Tester
-wei/cust/Tester.java
- wei.cust.Tester
+wei/racing/HorseRunnable.java
+ wei.racing.HorseRunnable
 wei/stud/Student.java
  wei.stud.Student
 wei/cust/Customer.java
@@ -20,9 +20,25 @@ wei/mail/Box3.java
  wei.mail.Box3
 wei/mail/Tester.java
  wei.mail.Tester
+wei/cust/Tester.java
+ wei.cust.Tester
 wei/racing/Horse.java
  wei.racing.Horse
-wei/racing/HorseRunnable.java
- wei.racing.HorseRunnable
 wei/racing/Racing.java
  wei.racing.Racing
+wei/test/Box.java
+ wei.test.Box
+wei/test/Box1.java
+ wei.test.Box1
+wei/test/Box6.java
+ wei.test.Box6
+wei/test/Box5.java
+ wei.test.Box5
+wei/test/Box3.java
+ wei.test.Box3
+wei/test/Box4.java
+ wei.test.Box4
+wei/test/Box2.java
+ wei.test.Box2
+wei/test/Tester.java
+ wei.test.Tester
