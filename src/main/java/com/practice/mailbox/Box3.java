@@ -1,23 +1,20 @@
-package com.wei.mail;
+package com.practice.mailbox;
 
-public class Box3 extends Box {
+public class Box3 extends Box{
     public Box3(){
-        length = 10;
         width = 10;
+        length = 10;
         height = 10;
 
-        }
+    }
 
-    //command+N
     @Override
     public String getGame() {
-        return "Box 3";
+        return "Box3";
     }
 
     @Override
     public int getPrice() {
         return 60;
     }
-
-
 }
