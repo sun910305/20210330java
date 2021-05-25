@@ -72,3 +72,9 @@ com/wei/mail/Tester.java
  com.wei.mail.Tester
 com/practice/mailbox/Tester.java
  com.practice.mailbox.Tester
+com/wei/car/MapTester.java
+ com.wei.car.MapTester
+com/wei/car/Tester.java
+ com.wei.car.Tester
+com/wei/car/Car.java
+ com.wei.car.Car
