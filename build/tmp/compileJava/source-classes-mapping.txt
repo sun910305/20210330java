@@ -4,22 +4,36 @@ com/anon/HeHeHeReporter.java
  com.anon.HeHeHeReporter
 com/test/BetterTester.java
  com.test.BetterTester
+com/practice/mailbox/Box3.java
+ com.practice.mailbox.Box3
+com/wei/mail/Box1.java
+ com.wei.mail.Box1
+com/wei/car/Car.java
+ com.wei.car.Car
+com/wei/mail/Box4.java
+ com.wei.mail.Box4
 com/test/Tester.java
  com.test.Tester
+com/wei/car/CarWin.java
+ com.wei.car.CarWin
 com/wei/stud/Mailer.java
  com.wei.stud.Mailer
 com/test/Box2.java
  com.test.Box2
+com/wei/car/MapTester.java
+ com.wei.car.MapTester
+com/wei/mail/Box3.java
+ com.wei.mail.Box3
+com/test/Box5.java
+ com.test.Box5
+com/practice/mailbox/Box.java
+ com.practice.mailbox.Box
 com/anon/Tester.java
  com.anon.Tester
  com.anon.Tester$1
  com.anon.Tester$2
-com/test/Box5.java
- com.test.Box5
-com/test/Box3.java
- com.test.Box3
-com/anon/WeatherReporter.java
- com.anon.WeatherReporter
+com/anon/Printer.java
+ com.anon.Printer
 com/wei/stud/GraduateStudent.java
  com.wei.stud.GraduateStudent
 com/wei/collection/TreeSetList.java
@@ -28,53 +42,41 @@ com/wei/cust/Tester.java
  com.wei.cust.Tester
 com/wei/cust/Customer.java
  com.wei.cust.Customer
-com/anon/Printer.java
- com.anon.Printer
 com/test/Box1.java
  com.test.Box1
 com/test/Box4.java
  com.test.Box4
-com/wei/racing/Racing.java
- com.wei.racing.Racing
-com/wei/cust/SilverCustomer.java
- com.wei.cust.SilverCustomer
+com/wei/mail/Box2.java
+ com.wei.mail.Box2
+com/anon/WeatherReporter.java
+ com.anon.WeatherReporter
+com/wei/car/Tester.java
+ com.wei.car.Tester
+com/wei/mail/Box.java
+ com.wei.mail.Box
 com/wei/stud/Student.java
  com.wei.stud.Student
 com/test/Box.java
  com.test.Box
 com/wei/stud/Tester.java
  com.wei.stud.Tester
-com/test/Box6.java
- com.test.Box6
-com/wei/racing/Horse.java
- com.wei.racing.Horse
-com/anon/Reporter.java
- com.anon.Reporter
-com/wei/mail/Box2.java
- com.wei.mail.Box2
-com/practice/mailbox/Box2.java
- com.practice.mailbox.Box2
-com/wei/mail/Box3.java
- com.wei.mail.Box3
-com/practice/mailbox/Box1.java
- com.practice.mailbox.Box1
-com/wei/mail/Box.java
- com.wei.mail.Box
-com/practice/mailbox/Box3.java
- com.practice.mailbox.Box3
-com/wei/mail/Box1.java
- com.wei.mail.Box1
-com/practice/mailbox/Box.java
- com.practice.mailbox.Box
-com/wei/mail/Box4.java
- com.wei.mail.Box4
 com/wei/mail/Tester.java
  com.wei.mail.Tester
+com/wei/racing/Horse.java
+ com.wei.racing.Horse
+com/practice/mailbox/Box1.java
+ com.practice.mailbox.Box1
+com/anon/Reporter.java
+ com.anon.Reporter
+com/practice/mailbox/Box2.java
+ com.practice.mailbox.Box2
+com/test/Box6.java
+ com.test.Box6
+com/wei/cust/SilverCustomer.java
+ com.wei.cust.SilverCustomer
+com/wei/racing/Racing.java
+ com.wei.racing.Racing
 com/practice/mailbox/Tester.java
  com.practice.mailbox.Tester
-com/wei/car/MapTester.java
- com.wei.car.MapTester
-com/wei/car/Tester.java
- com.wei.car.Tester
-com/wei/car/Car.java
- com.wei.car.Car
+com/test/Box3.java
+ com.test.Box3
