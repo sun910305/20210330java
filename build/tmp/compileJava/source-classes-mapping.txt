@@ -24,6 +24,8 @@ com/wei/car/MapTester.java
  com.wei.car.MapTester
 com/wei/mail/Box3.java
  com.wei.mail.Box3
+com/wei/car/CarDemo.java
+ com.wei.car.CarDemo
 com/test/Box5.java
  com.test.Box5
 com/practice/mailbox/Box.java
