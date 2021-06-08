@@ -7,18 +7,18 @@
     <properties/>
     <border type="none"/>
     <children>
-      <grid id="287b3" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+      <grid id="1d13b" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
         <constraints border-constraint="North"/>
         <properties/>
         <border type="none"/>
         <children>
-          <component id="66eb" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+          <component id="20baf" class="javax.swing.JTextField" binding="textField1" default-binding="true">
             <constraints/>
             <properties>
               <columns value="30"/>
             </properties>
           </component>
-          <component id="3b82" class="javax.swing.JButton" binding="button1" default-binding="true">
+          <component id="f3703" class="javax.swing.JButton" binding="button1" default-binding="true">
             <constraints/>
             <properties>
               <text value="Button"/>
