@@ -82,3 +82,7 @@ com/practice/mailbox/Tester.java
  com.practice.mailbox.Tester
 com/test/Box3.java
  com.test.Box3
+com/wei/net/Tester.java
+ com.wei.net.Tester
+com/wei/net/UrlTester.java
+ com.wei.net.UrlTester
